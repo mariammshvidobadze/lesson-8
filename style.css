@@ -1,0 +1,16 @@
+.flex-box {
+	display: flex;
+	flex-flow: row wrap;
+	justify-content: space-around;
+}
+.logo {
+	margin-top: 20.5px;
+	height: 60px;
+	width: 196.73px;
+}
+.nav {
+	font-size: 24px;
+	color: #3D58A6;
+	margin-top: 35.4px;
+	font-family: 'Roboto', sans-serif;
+}
